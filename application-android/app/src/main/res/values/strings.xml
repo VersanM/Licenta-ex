@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FoodApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="camera_flash_auto">Auto</string>
+    <string name="camera_flash_on">On</string>
+    <string name="camera_flash_off">Off</string>
+    <string name="camera_cancel_take_photo">Cancel</string>
+    <string name="tag_camera_flash_auto">flash_auto</string>
+    <string name="tag_camera_flash_on">flash_on</string>
+    <string name="tag_camera_flash_off">flash_off</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="camera_display_photo_retake">Retake</string>
+    <string name="camera_display__use_photo">Use Photo</string>
+    <string name="no_image_preview">No preview for this picture</string>
+    <string name="no_camera_available">No camera detected on this device</string>
+    <string name="title_activity_defect_radar_camera">Camera</string>
+    <string name="activity_main_button_take_picture">Take picture</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer closed</string>
+    <string name="app_description">Android drawer icon with material design animation</string>
+
+    <string name="progress_dialog">Progress Dialog</string>
+    <string name="wait_while_performing_ocr">Please wait while performing OCR…</string>
+    <string name="title_activity_add_product">Register product</string>
+    <string name="product_name">Name</string>
+    <string name="product_description">Description</string>
+    <string name="action_save">Save</string>
+    <string name="activity_add_product_image">Picture of the product</string>
+    <string name="product_expiration_date">Expiration date</string>
+    <string name="product_expiration_status">Expiration status</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+
+    <string name="image_dialog_description">Image Preview</string>
+    <string name="title_activity_preview_photo">OCR result</string>
+    <string name="action_save_changes">Save</string>
+    <string name="action_save_ocr_result">Save</string>
+    <string name="action_edit_ocr_result">Edit</string>
+    <string name="action_discard_ocr_result">Cancel</string>
+    <string name="product_ingredients">Ingredients</string>
+    <string name="activity_add_product_title">Add product</string>
+    <string name="product_pieces_number">Number of items</string>
+    <string name="activity_add_product_complete_all_fields">Please complete all fields</string>
+    <string name="item_product_pieces_number">Number of pieces:</string>
+    <string name="item_product_expiration_date">Expiration date:</string>
+    <string name="main_activity_title">Registered products</string>
+    <string name="camera_activity_header_message">Hold capture inside the box</string>
+    <string name="action_delete">Delete product</string>
+    <string name="action_edit_product">Edit product</string>
+    <string name="photos_to_describe_product">Pictures depicting product</string>
+    <string name="search">Search</string>
+    <string name="wait_while_performing_surf">Please wait while performing object detection...</string>
+    <string name="choose">Choose</string>
+    <string name="no_registrations_available">There are no products registered!</string>
+    <string name="registered_products">Registered products</string>
+    <string name="activity_edit_product_title">Edit product</string>
+
+</resources>

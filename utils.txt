@@ -1,0 +1,17 @@
+Linkuri utile:
+
+http://stackoverflow.com/questions/28510045/undefined-reference-to-cvinitmodule-nonfree-in-android
+
+!!!!1. http://web.guohuiwang.com/technical-notes/sift_surf_opencv_android
+!!!!2. http://web.guohuiwang.com/technical-notes/opencv_nonfree_android_jni_demo
+
+http://jagadish-android.blogspot.de/
+http://www.codeproject.com/Tips/840623/Android-Character-Recognition
+http://stackoverflow.com/questions/27406303/opencv-in-android-studio
+http://docs.opencv.org/2.4.8/doc/tutorials/introduction/android_binary_package/O4A_SDK.html
+http://stackoverflow.com/questions/28510045/undefined-reference-to-cvinitmodule-nonfree-in-android
+
+E important cum se configureaza fisierele Android.mk si Application.mk!
+
+
+
